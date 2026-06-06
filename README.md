@@ -1,2 +1,2 @@
 # my_r_repo
-Testing RStudio setup
+This is Magnus Tveit's R repository for GEOG 5680
